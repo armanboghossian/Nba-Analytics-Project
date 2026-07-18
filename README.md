@@ -1,2 +1,2 @@
 # Nba-Analytics-Project
-NBA analytics project using Python ,machne learning and streamlit
+NBA analytics project using Python ,machine learning and streamlit
