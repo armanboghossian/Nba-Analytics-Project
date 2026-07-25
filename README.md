@@ -65,7 +65,7 @@ Player full names are pulled in separately via the [`nba_api`](https://github.co
 
 | Category | Libraries |
 |---|---|
-| Data handling | `pandas`, `numpy` |
+| Data handling | `pandas`|
 | Visualization | `matplotlib`, `seaborn`, `plotly` |
 | NBA data access | `nba_api` |
 | Machine learning | `scikit-learn` (PCA, K-Means, Linear Regression, Random Forest), `xgboost` |
@@ -96,7 +96,7 @@ Player full names are pulled in separately via the [`nba_api`](https://github.co
 
 3. **Install the dependencies**
    ```bash
-   pip install "numpy<2" pandas matplotlib seaborn plotly scikit-learn xgboost shap nba_api jupyter
+   pip install  pandas matplotlib seaborn plotly scikit-learn xgboost shap nba_api jupyter
    ```
 
 4. **Add your dataset**
