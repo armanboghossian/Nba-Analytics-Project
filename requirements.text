@@ -1,0 +1,9 @@
+numpy<2
+pandas
+matplotlib
+seaborn
+plotly
+scikit-learn
+xgboost
+shap
+nba_api
