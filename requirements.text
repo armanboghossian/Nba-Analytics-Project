@@ -6,3 +6,4 @@ scikit-learn
 xgboost
 shap
 nba_api
+numpy
